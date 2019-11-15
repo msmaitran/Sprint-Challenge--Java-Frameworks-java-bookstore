@@ -1,3 +1,3 @@
 # java-oauth2
 
-https://msmaitran-bookstore.herokuapp.com/
+# [Deployed to Heroku](https://msmaitran-bookstore.herokuapp.com/)
