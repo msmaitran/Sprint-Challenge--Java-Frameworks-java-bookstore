@@ -108,7 +108,7 @@
     </dependencies>
 
     <build>
-        <finalName>jrmmba-usermodel</finalName>
+        <finalName>msmaitran-bookstore</finalName>
 
         <plugins>
             <plugin>
